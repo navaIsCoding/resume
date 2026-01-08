@@ -1,2 +1,5 @@
-# resume
+# Nava Choudhury Resume
+
 Website to easily display my latest Resume.
+
+Personal Website soon to be made which will be linked here.
